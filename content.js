@@ -160,7 +160,8 @@ if (window.sessionStorage !== "undefined") {
     var config = {
         attributes: true,
         childList: true,
-        characterData: true
+        characterData: true,
+        subtree: true
     };
     observer.observe(target, config);
 }
