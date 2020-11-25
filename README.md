@@ -21,3 +21,5 @@ it a whirl, and I ended up using it in the making of this website!
 There's lots I still want to do to improve the chrome extension, such as making rating display overtop of all thumbnails
 as soon as Netflix loads, and fixing a few minor bugs, for which I've figured out the cause but not resolved yet.
 It should be on the chrome store soon (I've submitted it for review), and I hope you enjoy it.
+
+Note: Netflix has since updated its UI and as a result this extension is currently not functional. I don't currently have any intentions to fix that, as I am more focused on exploring other projects and ideas that I have, as well as learning about
